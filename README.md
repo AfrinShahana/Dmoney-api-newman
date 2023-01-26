@@ -28,5 +28,8 @@ https://docs.google.com/spreadsheets/d/1voXfqlN2sLOOqA0mQDCy_uLTeQhUs58e/edit?us
 
 
 screenshot
-![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-17_18_43](https://user-images.githubusercontent.com/123531000/214833398-06994011-08ba-422e-b020-d5fcdf9d2af9.png)
-![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-17_18_23](https://user-images.githubusercontent.com/123531000/214833404-8c4206a1-0345-4e9f-b451-a9280db6032d.png)
+
+![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-20_31_13](https://user-images.githubusercontent.com/123531000/214862680-2a50e7fa-9d32-419d-b8cf-71280598ae62.png)
+![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-20_31_26](https://user-images.githubusercontent.com/123531000/214862685-cee5dfd9-3537-4917-bf33-643ad29a7f56.png)
+![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-20_31_47](https://user-images.githubusercontent.com/123531000/214862688-2cc8aab7-05b4-4cca-9983-f807c7bd5657.png)
+![screencapture-file-C-Users-19201120-Desktop-assignment-2-reports-report-html-2023-01-26-20_32_01](https://user-images.githubusercontent.com/123531000/214862692-11b40f68-0143-4719-b6aa-45a334eef82a.png)
