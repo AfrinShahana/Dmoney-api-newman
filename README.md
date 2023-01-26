@@ -11,10 +11,10 @@ Postman
 Newman
 
 ## Documentation 
-    https://documenter.getpostman.com/view/25408740/2s8ZDeSJ81
+https://documenter.getpostman.com/view/25408740/2s8ZDeSJ81
 
 
-## Test Cases ;
+## Test Cases 
 https://docs.google.com/spreadsheets/d/1QEqWdNctRSGTkWVpg0dGm-Co1WG7-Au9/edit?usp=sharing&ouid=114418356475837114217&rtpof=true&sd=true
 
 
