@@ -15,6 +15,9 @@ visual studio code
 ## Documentation 
 https://documenter.getpostman.com/view/25408740/2s8ZDeSJ81
 
+##
+newman report Documentation
+https://effortless-elf-d5326b.netlify.app/
 
 ## Api Documentation 
 https://api.postman.com/collections/25408740-12439bc1-4a30-40a7-9be6-094d80632bf0?access_key=PMAT-01GQMCGHH6CSAQC3K712A01S6S
