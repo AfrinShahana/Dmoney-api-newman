@@ -1,5 +1,5 @@
 
-#  dmoney-b6
+#  Dmoney
 
 ## How to run this project 
 -  clone the project 
